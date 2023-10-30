@@ -2,6 +2,6 @@ package ru.it.tcinet.igafarov;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Igafarov!");
+        System.out.println("Hello, Ilgiz Gafarov!");
     }
 }
